@@ -1,3 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.banner {
+  width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+
+<img src="[https://your-banner-image-url.com/banner.jpg" alt="Banner Image](https://media.licdn.com/dms/image/D4E16AQH1UpLdZZ87XA/profile-displaybackgroundimage-shrink_350_1400/0/1706408505281?e=1716422400&v=beta&t=TAsluVboS4yVdK7sAcK9PI-TDcNbY5mPvdDa4QqjF54)" class="banner">
+
 ### 🌟 Abdelkader Boumessaoud 🌟
 
 Welcome to my GitHub profile! I'm Abdelkader, a passionate software developer currently pursuing a Master's degree in Software Engineering. With a solid foundation in Java and practical experience in various programming languages and technologies, I am committed to becoming a skilled software developer. I thrive on challenges and am eager to contribute to innovative projects.
@@ -6,42 +20,9 @@ Welcome to my GitHub profile! I'm Abdelkader, a passionate software developer cu
 
 ## 📊 GitHub Insights
 
-```css
-<style>
-.insights-container {
-    background-color: #1e1e1e;
-    color: #c9d1d9;
-    border-radius: 8px;
-    padding: 20px;
-    margin-bottom: 20px;
-}
+![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Cad-MB&layout=compact&theme=radical)
 
-.insights-title {
-    font-size: 24px;
-    font-weight: bold;
-    margin-bottom: 15px;
-}
-
-.insights-item {
-    margin-bottom: 10px;
-}
-
-.insights-item img {
-    vertical-align: middle;
-    margin-right: 10px;
-}
-</style>
-
-<div class="insights-container">
-    <div class="insights-title">Programming Languages Used</div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cad-MB&layout=compact&theme=radical" alt="Top Languages Used">
-</div>
-
-<div class="insights-container">
-    <div class="insights-title">Contributions</div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Cad-MB&show_icons=true&theme=radical" alt="GitHub Contributions">
-</div>
-```
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Cad-MB&show_icons=true&theme=radical)
 
 ---
 
@@ -121,7 +102,7 @@ Welcome to my GitHub profile! I'm Abdelkader, a passionate software developer cu
   - [Benchmarking-generation-donnees-JSON-Schema](https://github.com/Cad-MB/Benchmarking-generation-donnees-JSON-Schema)
     - Exploration of the limits of optimistic approaches for generating schema instances by combining fragments, with the possibility of using an external validator to correct errors. The analysis is based on an open-source library chosen for its extensive coverage of schema language operators:
       - Study of the state of the art to understand JSON-Schema and instance generation from a schema.
-      - Getting started and reverse engineering of the 3 libraries to describe their operation.
+      - Reverse engineering of the 3 libraries to describe their operation.
       - Experimental analysis using real and synthetic schemas.
     - Skills: Python (programming language), JavaScript
 
@@ -139,3 +120,5 @@ Welcome to my GitHub profile! I'm Abdelkader, a passionate software developer cu
 - Personal Projects: Experimenting with new technologies and frameworks by working on personal coding projects.
 
 ---
+</body>
+</html>
