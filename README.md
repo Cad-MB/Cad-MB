@@ -6,11 +6,42 @@ Welcome to my GitHub profile! I'm Abdelkader, a passionate software developer cu
 
 ## 📊 GitHub Insights
 
-### Programming Languages Used
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cad-MB&layout=compact)
+```css
+<style>
+.insights-container {
+    background-color: #1e1e1e;
+    color: #c9d1d9;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
 
-### Contributions
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cad-MB&show_icons=true)
+.insights-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.insights-item {
+    margin-bottom: 10px;
+}
+
+.insights-item img {
+    vertical-align: middle;
+    margin-right: 10px;
+}
+</style>
+
+<div class="insights-container">
+    <div class="insights-title">Programming Languages Used</div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cad-MB&layout=compact&theme=radical" alt="Top Languages Used">
+</div>
+
+<div class="insights-container">
+    <div class="insights-title">Contributions</div>
+    <img src="https://github-readme-stats.vercel.app/api?username=Cad-MB&show_icons=true&theme=radical" alt="GitHub Contributions">
+</div>
+```
 
 ---
 
@@ -88,8 +119,6 @@ Welcome to my GitHub profile! I'm Abdelkader, a passionate software developer cu
 
 - **Benchmarking optimistic solutions for test data generation from JSON-Schema**
   - [Benchmarking-generation-donnees-JSON-Schema](https://github.com/Cad-MB/Benchmarking-generation-donnees-JSON-Schema)
-    - Jan 2023 - May 2023
-    - Associated with Sorbonne University
     - Exploration of the limits of optimistic approaches for generating schema instances by combining fragments, with the possibility of using an external validator to correct errors. The analysis is based on an open-source library chosen for its extensive coverage of schema language operators:
       - Study of the state of the art to understand JSON-Schema and instance generation from a schema.
       - Getting started and reverse engineering of the 3 libraries to describe their operation.
@@ -98,8 +127,6 @@ Welcome to my GitHub profile! I'm Abdelkader, a passionate software developer cu
 
 - **Professional trainings website**
   - [Systeme-de-gestion-des-annonces-de-formations-professionnelles](https://github.com/Cad-MB/Systeme-de-gestion-des-annonces-de-formations-professionnelles)
-    - March 2021 - June 2021
-    - Associated with Université Oran 1 Ahmed Ben Bella
     - Website for the Francophone Digital Campus partner of Oran:
       - Frontend, Backend, and database with HTML5/CSS3, JavaScript, PHP, and MySQL.
     - Skills: SQL, JavaScript
