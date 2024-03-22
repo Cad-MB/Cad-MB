@@ -7,10 +7,10 @@ Welcome to my GitHub profile! I'm Abdelkader, a passionate software developer cu
 ## 📊 GitHub Insights
 
 ### Programming Languages Used
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cad-MB&layout=compact)
 
 ### Contributions
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cad-MB&show_icons=true)
 
 ---
 
