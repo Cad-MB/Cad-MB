@@ -4,6 +4,16 @@ Welcome to my GitHub profile! I'm Abdelkader, a passionate software developer cu
 
 ---
 
+## 📊 GitHub Insights
+
+### Programming Languages Used
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
+### Contributions
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+---
+
 ## 📚 Education
 - **Master Software Engineering** *(Ongoing)*  
   Sorbonne Université, France  
