@@ -63,6 +63,8 @@ Welcome to my GitHub profile! I'm Abdelkader, a passionate software developer cu
 - **Training Certificate (Introduction to Computing and Office Automation)**  
   International Management Institute - INSIM Oran  
 
+---
+
 ## 🚀 Collaborative Projects
 - **Sensor Network with BCM4Java Framework (Ongoing)**
   - [BCM4Java_sensors](https://github.com/Cad-MB/BCM4Java_sensors)
