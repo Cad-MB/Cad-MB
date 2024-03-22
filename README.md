@@ -63,24 +63,40 @@ Welcome to my GitHub profile! I'm Abdelkader, a passionate software developer cu
 - **Training Certificate (Introduction to Computing and Office Automation)**  
   International Management Institute - INSIM Oran  
 
----
-
 ## 🚀 Collaborative Projects
 - **Sensor Network with BCM4Java Framework (Ongoing)**
-- [BCM4Java_sensors](https://github.com/Cad-MB/BCM4Java_sensors)
-  - Developed a prototype for distributed sensor supervision using BCM4Java to simulate environmental sensor networks.
-  - Skills: J2SE, RMI, JVM, parallel and distributed programming, software componentization.
+  - [BCM4Java_sensors](https://github.com/Cad-MB/BCM4Java_sensors)
+    - Developed a prototype for distributed sensor supervision using BCM4Java to simulate environmental sensor networks.
+    - Skills: J2SE, RMI, JVM, parallel and distributed programming, software componentization.
 
 - **Binary Decision Diagrams (Advanced Algorithms)**
-- [binary-decision-diagram](https://github.com/Cad-MB/binary-decision-diagram)
-  - Implemented algorithms for generating reduced and ordered binary decision diagrams.
-  - Skills: Java, Combinatorial optimization.
+  - [binary-decision-diagram](https://github.com/Cad-MB/binary-decision-diagram)
+    - Implemented algorithms for generating reduced and ordered binary decision diagrams.
+    - Skills: Java, Combinatorial optimization.
+
+- **Benchmarking optimistic solutions for test data generation from JSON-Schema**
+  - [Benchmarking-generation-donnees-JSON-Schema](https://github.com/Cad-MB/Benchmarking-generation-donnees-JSON-Schema)
+    - Jan 2023 - May 2023
+    - Associated with Sorbonne University
+    - Exploration of the limits of optimistic approaches for generating schema instances by combining fragments, with the possibility of using an external validator to correct errors. The analysis is based on an open-source library chosen for its extensive coverage of schema language operators:
+      - Study of the state of the art to understand JSON-Schema and instance generation from a schema.
+      - Getting started and reverse engineering of the 3 libraries to describe their operation.
+      - Experimental analysis using real and synthetic schemas.
+    - Skills: Python (programming language), JavaScript
+
+- **Professional trainings website**
+  - [Systeme-de-gestion-des-annonces-de-formations-professionnelles](https://github.com/Cad-MB/Systeme-de-gestion-des-annonces-de-formations-professionnelles)
+    - March 2021 - June 2021
+    - Associated with Université Oran 1 Ahmed Ben Bella
+    - Website for the Francophone Digital Campus partner of Oran:
+      - Frontend, Backend, and database with HTML5/CSS3, JavaScript, PHP, and MySQL.
+    - Skills: SQL, JavaScript
 
 ---
 
-🌱 Continuous Learning
-Online Courses and Tutorials: Constantly expanding knowledge through online platforms like Coursera, Udemy, and Pluralsight.
-Tech Meetups and Conferences: Attending industry events to network and stay updated on the latest trends and technologies.
-Personal Projects: Experimenting with new technologies and frameworks by working on personal coding projects.
+## 🌱 Continuous Learning
+- Online Courses and Tutorials: Constantly expanding knowledge through online platforms like GitHub Education, jetBrains Education.
+- Tech Meetups and Conferences: Attending industry events to network and stay updated on the latest trends and technologies.
+- Personal Projects: Experimenting with new technologies and frameworks by working on personal coding projects.
 
 ---
