@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm Abdelkader, a passionate software developer currently pursuing a Master's degree in Software Engineering. With a solid foundation in Java and practical experience in various programming languages and technologies, I am committed to becoming a skilled software developer. I thrive on challenges and am eager to contribute to innovative projects.
 
+---
+
 ## Education
 - **Master Software Engineering** *(Ongoing)*  
   Sorbonne Université, France  
@@ -14,6 +16,8 @@ Welcome to my GitHub profile! I'm Abdelkader, a passionate software developer cu
 - **Bachelor in Information Systems**  
   Université Oran 1, Algeria  
   _2018 - 2022_
+
+---
 
 ## Professional Experience
 - **Computer Science Laboratory Sorbonne University/CNRS**  
@@ -30,6 +34,8 @@ Welcome to my GitHub profile! I'm Abdelkader, a passionate software developer cu
   - Designed an e-commerce website, covering frontend, backend, and database.
   - Skills: HTML5/CSS3, JavaScript, MySQL, PHP.
 
+---
+
 ## Skills
 - **Languages:** Java, SQL, Python, JavaScript, Shell scripting.
 - **Frameworks:** Java SE, JavaFX, JUnit.
@@ -41,13 +47,17 @@ Welcome to my GitHub profile! I'm Abdelkader, a passionate software developer cu
 - **Collaboration Tools:** Git, Trello.
 - **Languages:** Fluent in French (DALF C1, TCF C2) and English (IELTS C1).
 
+---
+
 ## Collaborative Projects
 - **Sensor Network with BCM4Java Framework (Ongoing)**
-- https://github.com/Cad-MB/BCM4Java_sensors
+- [BCM4Java_sensors](https://github.com/Cad-MB/BCM4Java_sensors)
   - Developed a prototype for distributed sensor supervision using BCM4Java to simulate environmental sensor networks.
   - Skills: J2SE, RMI, JVM, parallel and distributed programming, software componentization.
 
 - **Binary Decision Diagrams (Advanced Algorithms)**
-- https://github.com/Cad-MB/binary-decision-diagram
+- [binary-decision-diagram](https://github.com/Cad-MB/binary-decision-diagram)
   - Implemented algorithms for generating reduced and ordered binary decision diagrams.
   - Skills: Java, Combinatorial optimization.
+
+---
