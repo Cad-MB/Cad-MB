@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-.banner {
-  width: 100%;
-  height: auto;
-}
-</style>
-</head>
-<body>
-
-<img src="https://media.licdn.com/dms/image/D4E16AQH1UpLdZZ87XA/profile-displaybackgroundimage-shrink_350_1400/0/1706408505281?e=1716422400&v=beta&t=TAsluVboS4yVdK7sAcK9PI-TDcNbY5mPvdDa4QqjF54" alt="Banner Image" class="banner">
+![Banner Image](https://media.licdn.com/dms/image/D4E16AQH1UpLdZZ87XA/profile-displaybackgroundimage-shrink_350_1400/0/1706408505281?e=1716422400&v=beta&t=TAsluVboS4yVdK7sAcK9PI-TDcNbY5mPvdDa4QqjF54)
 
 ### 🌟 Abdelkader Boumessaoud 🌟
 
@@ -20,9 +8,16 @@ Welcome to my GitHub profile! I'm Abdelkader, a passionate software developer cu
 
 ## 📊 GitHub Insights
 
-![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Cad-MB&layout=compact&theme=radical)
+<div style="display: flex; justify-content: space-between;">
+  <div style="width: 45%; background-color: #0d0d0d; padding: 20px; border-radius: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cad-MB&layout=compact&theme=radical&bg_color=0d0d0d&text_color=00FF00" alt="Top Languages Used" style="width: 50%;">
+  </div>
+  
+  <div style="width: 45%; background-color: #0d0d0d; padding: 20px; border-radius: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Cad-MB&show_icons=true&theme=radical&bg_color=0d0d0d&text_color=00FF00" alt="GitHub Contributions" style="width: 50%;">
+  </div>
+</div>
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Cad-MB&show_icons=true&theme=radical)
 
 ---
 
@@ -60,11 +55,11 @@ Welcome to my GitHub profile! I'm Abdelkader, a passionate software developer cu
 
 ## 💻 Skills
 - **Languages:** 
-  ![Java](https://raw.githubusercontent.com/github/explore/main/topics/java/java.png) Java, 
-  ![SQL](https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png) SQL, 
-  ![Python](https://raw.githubusercontent.com/github/explore/main/topics/python/python.png) Python, 
-  ![JavaScript](https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png) JavaScript, 
-  ![Shell scripting](https://raw.githubusercontent.com/github/explore/main/topics/shell/shell.png) Shell scripting.
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="20"> Java, 
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL" width="20"> SQL, 
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="20"> Python, 
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="20"> JavaScript, 
+  <img src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/PNG/128x128.png" alt="Shell scripting" width="20"> Shell scripting.
 - **Frameworks:** Java SE, JavaFX, JUnit.
 - **Databases:** MySQL, PostgreSQL.
 - **Web Technologies:** HTML5/CSS3, REST.
@@ -122,8 +117,3 @@ Welcome to my GitHub profile! I'm Abdelkader, a passionate software developer cu
 ## 🌱 Continuous Learning
 - Online Courses and Tutorials: Constantly expanding knowledge through online platforms like GitHub Education, jetBrains Education.
 - Tech Meetups and Conferences: Attending industry events to network and stay updated on the latest trends and technologies.
-- Personal Projects: Experimenting with new technologies and frameworks by working on personal coding projects.
-
----
-</body>
-</html>
