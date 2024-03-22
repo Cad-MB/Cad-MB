@@ -10,7 +10,7 @@
 </head>
 <body>
 
-<img src="[https://your-banner-image-url.com/banner.jpg" alt="Banner Image](https://media.licdn.com/dms/image/D4E16AQH1UpLdZZ87XA/profile-displaybackgroundimage-shrink_350_1400/0/1706408505281?e=1716422400&v=beta&t=TAsluVboS4yVdK7sAcK9PI-TDcNbY5mPvdDa4QqjF54)" class="banner">
+<img src="https://media.licdn.com/dms/image/D4E16AQH1UpLdZZ87XA/profile-displaybackgroundimage-shrink_350_1400/0/1706408505281?e=1716422400&v=beta&t=TAsluVboS4yVdK7sAcK9PI-TDcNbY5mPvdDa4QqjF54" alt="Banner Image" class="banner">
 
 ### 🌟 Abdelkader Boumessaoud 🌟
 
@@ -59,7 +59,12 @@ Welcome to my GitHub profile! I'm Abdelkader, a passionate software developer cu
 ---
 
 ## 💻 Skills
-- **Languages:** Java, SQL, Python, JavaScript, Shell scripting.
+- **Languages:** 
+  ![Java](https://raw.githubusercontent.com/github/explore/main/topics/java/java.png) Java, 
+  ![SQL](https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png) SQL, 
+  ![Python](https://raw.githubusercontent.com/github/explore/main/topics/python/python.png) Python, 
+  ![JavaScript](https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png) JavaScript, 
+  ![Shell scripting](https://raw.githubusercontent.com/github/explore/main/topics/shell/shell.png) Shell scripting.
 - **Frameworks:** Java SE, JavaFX, JUnit.
 - **Databases:** MySQL, PostgreSQL.
 - **Web Technologies:** HTML5/CSS3, REST.
