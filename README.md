@@ -8,26 +8,7 @@ Welcome to my GitHub profile! I'm Abdelkader, a passionate software developer cu
 
 ## 📊 GitHub Insights
 
-<p align="center">
-<a href="https://github.com/Cad-MB">
-	<picture>
-	<source
-		srcset="https://github-readme-stats.vercel.app/api?username=Cad-MB&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=00FF41&icon_color=00FF41"
-		media="(prefers-color-scheme: light)"
-	/>
-	<img src="https://github-readme-stats.vercel.app/api?username=Cad-MB&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=00FF41&icon_color=00FF41">
-	</picture>
-</a>
-<a href="https://github.com/Cad-MB">
-	<picture>
-	<source
-		srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Cad-MB&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&layout=compact&langs_count=8&hide=yacc&card_width=340px&title_color=00FF41&icon_color=00FF41"
-		media="(prefers-color-scheme: light)"
-	/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cad-MB&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&layout=compact&langs_count=8&hide=yacc,java&card_width=340px&title_color=00FF41&icon_color=00FF41">
-	</picture>
-</a>
-</p>
+
 
 ---
 
