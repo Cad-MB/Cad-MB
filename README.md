@@ -41,7 +41,15 @@ Welcome to my GitHub profile! I'm Abdelkader, a passionate software developer cu
   Winner Software Cisco Networking Academy  
 
 - **Training Certificate (Introduction to Computing and Office Automation)**  
-  International Management Institute - INSIM Oran  
+  International Management Institute - INSIM Oran
+
+- Preparing for:
+  - Java Foundations | 1Z0-811
+  - Java SE 8 Programmer I & II | 1Z0-808 & 1Z0-809
+  - Java EE 7 Application Developer | 1Z0-900
+  - Oracle Database Foundations | 1Z0-006
+  - Oracle Database SQL | 1Z0-071
+  - Oracle Database SQL Specialist | 1Z0-914
 
 ---
 
@@ -75,10 +83,3 @@ Welcome to my GitHub profile! I'm Abdelkader, a passionate software developer cu
 ## 🌱 Continuous Learning
 - Online Courses and Tutorials: Constantly expanding knowledge through online platforms like GitHub Education, jetBrains Education.
 - Tech Meetups and Conferences: Attending industry events to network and stay updated on the latest trends and technologies.
-- Professional Certifications:
-- Java Foundations | 1Z0-811
-- Java SE 8 Programmer I & II | 1Z0-808 & 1Z0-809
-- Java EE 7 Application Developer | 1Z0-900
-- Oracle Database Foundations | 1Z0-006
-- Oracle Database SQL | 1Z0-071
-- Oracle Database SQL Specialist | 1Z0-914
