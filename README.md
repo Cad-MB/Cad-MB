@@ -31,19 +31,19 @@ Welcome to my GitHub profile! I'm Abdelkader, a passionate software developer cu
 ---
 
 ## 📜 Certifications
-- **Interactive Training Certification: Communication and Stress Management**  
-- **Interactive Training Certification: Software & Hardware**  
-  Organizing Committee of the 2022 Mediterranean Games, Oran  
+- **Organizing Committee of the 2022 Mediterranean Games, Oran**
+  - Interactive Training Certification: Communication and Stress Management
+  - Interactive Training Certification: Software & Hardware
+ 
+- **Winner Software Cisco Networking Academy**
+  - Training Certificate (Java Android / MySQL)
+  - Training Certificate (Python Programming - Level 1)
+  - Training Certificate (Webmaster)
 
-- **Training Certificate (Java Android / MySQL)**  
-- **Training Certificate (Python Programming - Level 1)**  
-- **Training Certificate (Webmaster)**  
-  Winner Software Cisco Networking Academy  
+- **International Management Institute - INSIM Oran**
+  - Training Certificate (Introduction to Computing and Office Automation)
 
-- **Training Certificate (Introduction to Computing and Office Automation)**  
-  International Management Institute - INSIM Oran
-
-- Preparing for:
+- **Preparing for Oracle University Certifications**
   - Java Foundations | 1Z0-811
   - Java SE 8 Programmer I & II | 1Z0-808 & 1Z0-809
   - Java EE 7 Application Developer | 1Z0-900
