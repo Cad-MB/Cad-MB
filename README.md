@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm Abdelkader, a passionate software developer cu
 
 ## 📊 GitHub Insights
 
-![svg](https://raw.githubusercontent.com/Cad-MB/Cad-MB/output-3d-contrib/profile-custom-evergreen.svg)
+![svg](https://raw.githubusercontent.com/Cad-MB/Cad-MB/output-3d-contrib/profile-night-green.svg)
 
 ---
 
