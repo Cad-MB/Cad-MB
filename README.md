@@ -12,38 +12,6 @@ Welcome to my GitHub profile! I'm Abdelkader, a passionate software developer cu
 
 ---
 
-## 📚 Education
-- **Master Software Engineering** *(Ongoing)*  
-  Sorbonne Université, France  
-  _2022 - 2025_
-
-- **Master of Science in Information Systems and Web Technologies**
-  Sorbonne Université, France  
-  _2021 - 2022_
-
-- **Bachelor in Information Systems**  
-  Université Oran 1, Algeria  
-  _2018 - 2022_
-
----
-
-## 💼 Professional Experience
-- **Computer Science Laboratory Sorbonne University/CNRS**  
-  *June 2023 - August 2023*  
-  Intern  
-  - Reverse engineering of JSON Schema instance generators.
-  - Data processing at scale.
-  - Experimentation with real-world datasets.
-  - Skills: JavaScript, Python, Docker, Shell scripting.
-
-- **French-speaking digital campus Oran/AUF**  
-  *April 2021 - July 2021*  
-  Intern  
-  - Designed an e-commerce website, covering frontend, backend, and database.
-  - Skills: HTML5/CSS3, JavaScript, MySQL, PHP.
-
----
-
 ## 💻 Skills
 - **Languages:** 
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="20"> Java, 
@@ -64,15 +32,14 @@ Welcome to my GitHub profile! I'm Abdelkader, a passionate software developer cu
 
 ## 📜 Certifications
 - **Interactive Training Certification: Communication and Stress Management**  
-  Organizing Committee of the 2022 Mediterranean Games, Oran  
 - **Interactive Training Certification: Software & Hardware**  
   Organizing Committee of the 2022 Mediterranean Games, Oran  
+
 - **Training Certificate (Java Android / MySQL)**  
-  Winner Software Cisco Networking Academy  
 - **Training Certificate (Python Programming - Level 1)**  
-  Winner Software Cisco Networking Academy  
 - **Training Certificate (Webmaster)**  
   Winner Software Cisco Networking Academy  
+
 - **Training Certificate (Introduction to Computing and Office Automation)**  
   International Management Institute - INSIM Oran  
 
@@ -108,3 +75,10 @@ Welcome to my GitHub profile! I'm Abdelkader, a passionate software developer cu
 ## 🌱 Continuous Learning
 - Online Courses and Tutorials: Constantly expanding knowledge through online platforms like GitHub Education, jetBrains Education.
 - Tech Meetups and Conferences: Attending industry events to network and stay updated on the latest trends and technologies.
+- Professional Certifications:
+- Java Foundations | 1Z0-811
+- Java SE 8 Programmer I & II | 1Z0-808 & 1Z0-809
+- Java EE 7 Application Developer | 1Z0-900
+- Oracle Database Foundations | 1Z0-006
+- Oracle Database SQL | 1Z0-071
+- Oracle Database SQL Specialist | 1Z0-914
