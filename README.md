@@ -2,7 +2,7 @@
 
 ### 🌟 Abdelkader Boumessaoud 🌟
 
-Welcome to my GitHub profile! I'm Abdelkader, a passionate software developer currently pursuing a Master's degree in Software Engineering. With a solid foundation in Java and practical experience in various programming languages and technologies, I am committed to becoming a skilled software developer. I thrive on challenges and am eager to contribute to innovative projects.
+Welcome to my GitHub profile! I'm Abdelkader, a passionate software developer currently pursuing a Master's degree in Software Engineering. With practical experience in various programming languages and technologies, I am committed to becoming a skilled software developer. I thrive on challenges and am eager to contribute to innovative projects.
 
 ---
 
