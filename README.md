@@ -1,5 +1,3 @@
-![Banner Image](https://www5.lunapic.com/editor/working/171155156010242553?10846)
-
 ### 🌟 Abdelkader Boumessaoud 🌟
 
 Welcome to my GitHub profile! I'm Abdelkader, a passionate software developer currently pursuing a Master's degree in Software Engineering. With practical experience in various programming languages and technologies, I am committed to becoming a skilled software developer. I thrive on challenges and am eager to contribute to innovative projects.
@@ -18,7 +16,10 @@ Welcome to my GitHub profile! I'm Abdelkader, a passionate software developer cu
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL" width="20"> SQL, 
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="20"> Python, 
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="20"> JavaScript, 
-  <img src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/PNG/128x128.png" alt="Shell scripting" width="20"> Shell scripting.
+  <img src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/PNG/128x128.png" alt="Shell scripting" width="20"> Shell scripting,
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" alt="C" width="20"> C,
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" alt="C#" width="20"> C#,
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++" width="20"> C++.
 - **Frameworks:** Java SE, JavaFX, JUnit.
 - **Databases:** MySQL, PostgreSQL.
 - **Web Technologies:** HTML5/CSS3, REST.
