@@ -79,5 +79,5 @@ Welcome to my GitHub profile! I'm Abdelkader, a passionate software developer cu
 ---
 
 ## 🌱 Continuous Learning
-- Online Courses and Tutorials: Constantly expanding knowledge through online platforms like GitHub Education, jetBrains Education.
+- Online Courses and Tutorials: Constantly expanding knowledge through online platforms like GitHub Education, jetBrains Education, Microsoft Learn and Oracle University.
 - Tech Meetups and Conferences: Attending industry events to network and stay updated on the latest trends and technologies.
