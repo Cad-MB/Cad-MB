@@ -44,13 +44,10 @@ Welcome to my GitHub profile! I'm Abdelkader, a passionate software developer cu
 - **International Management Institute - INSIM Oran**
   - Training Certificate (Introduction to Computing and Office Automation)
 
-- **Preparing for Oracle University Certifications**
-  - Java Foundations | 1Z0-811
-  - Java SE 8 Programmer I & II | 1Z0-808 & 1Z0-809
-  - Java EE 7 Application Developer | 1Z0-900
-  - Oracle Database Foundations | 1Z0-006
-  - Oracle Database SQL | 1Z0-071
-  - Oracle Database SQL Specialist | 1Z0-914
+- **Preparing for :**
+  - Oracle Certified : Java Foundations | 1Z0-811
+  - Oracle Certified : Database Foundations | 1Z0-006
+  - Microsoft Certified: Power Platform Fundamentals
 
 ---
 
