@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm Abdelkader, a passionate software developer cu
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" alt="C" width="20"> C,
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" alt="C#" width="20"> C#,
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++" width="20"> C++.
-- **Frameworks:** Java SE, JavaFX, JUnit.
+- **Frameworks:** Java SE, JavaFX, JUnit, .Net.
 - **Databases:** MySQL, PostgreSQL.
 - **Web Technologies:** HTML5/CSS3, REST.
 - **Methodologies:** UML, SCRUM, AGILE.
