@@ -154,16 +154,6 @@ Kernelization avec speedup 5000x sur graphes denses. Python/NetworkX.
 <img src="https://streak-stats.demolab.com?user=Cad-MB&theme=dark&hide_border=true&background=0d1117&ring=34D399&fire=34D399&currStreakLabel=34D399&sideLabels=c9d1d9&dates=6e7681" />
 </div>
 
-<!-- TROPHIES -->
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Cad-MB&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</div>
-
-<!-- METRICS (lowlighter) -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/Cad-MB/Cad-MB/main/metrics.plugin.habits.svg" />
-</div>
-
 ---
 
 <div align="center">
