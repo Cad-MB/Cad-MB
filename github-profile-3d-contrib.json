@@ -15,3 +15,8 @@
     "#1d6a23"
   ]
 }
+{
+  "type": "radar_contrib_only",
+  "fileName": "profile-night-green.svg",
+  "growingAnimation": true
+}
