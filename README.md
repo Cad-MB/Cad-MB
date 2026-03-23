@@ -57,8 +57,6 @@ Data Engineering, IA appliquée, Fullstack — en recherche d'un poste long term
 
 <div align="center">
 
-![3D Contributions](https://raw.githubusercontent.com/Cad-MB/Cad-MB/output-3d-contrib/profile-night-green.svg)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cad-MB/Cad-MB/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cad-MB/Cad-MB/output/github-snake.svg" />
